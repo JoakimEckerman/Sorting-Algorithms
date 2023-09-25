@@ -1,0 +1,42 @@
+Outputs:
+
+Haskell
+
+"Numbers:"
+[-876.32,-34.23,1.1,1.11,5.31,23.46,37.59,62.25,76.41,467.83,635.47,645.41]
+"People by name:"
+[Person {name = "Benny", age = 28},Person {name = "Cindy", age = 22},Person {name = "Cory", age = 27},Person {name = "Danna", age = 20},Person {name = "Doretha", age = 32},Person {name = "Dwight", age = 19},Person {name = "Hal", age = 20},Person {name = "Juan", age = 33},Person {name = "Kassandra", age = 21},Person {name = "Lawrence", age = 25},Person {name = "Mac", age = 19},Person {name = "Natalie", age = 25},Person {name = "Risa", age = 24},Person {name = "Romana", age = 27},Person {name = "Rosalyn", age = 26},Person {name = "Susann", age = 31},Person {name = "Zara", age = 23}]
+"People by descending age:"
+[Person {name = "Juan", age = 33},Person {name = "Doretha", age = 32},Person {name = "Susann", age = 31},Person {name = "Benny", age = 28},Person {name = "Romana", age = 27},Person {name = "Cory", age = 27},Person {name = "Rosalyn", age = 26},Person {name = "Natalie", age = 25},Person {name = "Lawrence", age = 25},Person {name = "Risa", age = 24},Person {name = "Zara", age = 23},Person {name = "Cindy", age = 22},Person {name = "Kassandra", age = 21},Person {name = "Danna", age = 20},Person {name = "Hal", age = 20},Person {name = "Mac", age = 19},Person {name = "Dwight", age = 19}]
+
+Python
+
+[-876.32, -34.23, 1.1, 1.11, 5.31, 23.46, 37.59, 62.25, 76.41, 467.83, 635.47, 645.41]
+
+[{'name': 'Benny', 'age': 28}, {'name': 'Cindy', 'age': 22}, {'name': 'Cory', 'age': 27}, {'name': 'Danna', 'age': 20}, {'name': 'Doretha', 'age': 32}, {'name': 'Dwight', 'age': 19}, {'name': 'Hal', 'age': 20}, {'name': 'Juan', 'age': 33}, {'name': 'Kassandra', 'age': 21}, {'name': 'Lawrence', 'age': 25}, {'name': 'Mac', 'age': 19}, {'name': 'Natalie', 'age': 25}, {'name': 'Risa', 'age': 24}, {'name': 'Romana', 'age': 27}, {'name': 'Rosalyn', 'age': 26}, {'name': 'Susann', 'age': 31}, {'name': 'Zara', 'age': 23}]
+
+[{'name': 'Juan', 'age': 33}, {'name': 'Doretha', 'age': 32}, {'name': 'Susann', 'age': 31}, {'name': 'Benny', 'age': 28}, {'name': 'Cory', 'age': 27}, {'name': 'Romana', 'age': 27}, {'name': 'Rosalyn', 'age': 26}, {'name': 'Lawrence', 'age': 25}, {'name': 'Natalie', 'age': 25}, {'name': 'Risa', 'age': 24}, {'name': 'Zara', 'age': 23}, {'name': 'Cindy', 'age': 22}, {'name': 'Kassandra', 'age': 21}, {'name': 'Danna', 'age': 20}, {'name': 'Hal', 'age': 20}, {'name': 'Dwight', 'age': 19}, {'name': 'Mac', 'age': 19}]
+
+C
+
+numbers = [-876.32, -34.23, 1.10, 1.11, 5.31, 23.46, 37.59, 62.25, 76.41, 467.83, 635.47, 645.41]
+
+people by name= [{Benny, 28 }, {Cindy, 22 }, {Cory, 27 }, {Danna, 20 }, {Doretha, 32 }, {Dwight, 19 }, {Hal, 20 }, {Juan, 33 }, {Kassandra, 21 }, {Lawrence, 25 }, {Mac, 19 }, {Natalie, 25 }, {Risa, 24 }, {Romana, 27 }, {Rosalyn, 26 }, {Susann, 31 }, {Zara, 23 }]
+
+people by descending age = [{Juan, 33 }, {Doretha, 32 }, {Susann, 31 }, {Benny, 28 }, {Cory, 27 }, {Romana, 27 }, {Rosalyn, 26 }, {Lawrence, 25 }, {Natalie, 25 }, {Risa, 24 }, {Zara, 23 }, {Cindy, 22 }, {Kassandra, 21 }, {Danna, 20 }, {Hal, 20 }, {Dwight, 19 }, {Mac, 19 }]
+
+C++
+
+numbers = [-876.32, -34.23, 1.1, 1.11, 5.31, 23.46, 37.59, 62.25, 76.41, 467.83, 635.47, 645.41]
+
+people by name = [{Benny, 28}, {Cindy, 22}, {Cory, 27}, {Danna, 20}, {Doretha, 32}, {Dwight, 19}, {Hal, 20}, {Juan, 33}, {Kassandra, 21}, {Lawrence, 25}, {Mac, 19}, {Natalie, 25}, {Risa, 24}, {Romana, 27}, {Rosalyn, 26}, {Susann, 31}, {Zara, 23}]
+
+people by descending age = [{Juan, 33}, {Doretha, 32}, {Susann, 31}, {Benny, 28}, {Cory, 27}, {Romana, 27}, {Rosalyn, 26}, {Lawrence, 25}, {Natalie, 25}, {Risa, 24}, {Zara, 23}, {Cindy, 22}, {Kassandra, 21}, {Danna, 20}, {Hal, 20}, {Dwight, 19}, {Mac, 19}]
+
+C#
+
+numbers = [-876.32, -34.23, 1.1, 1.11, 5.31, 23.46, 37.59, 62.25, 76.41, 467.83, 635.47, 645.41]
+
+people by name = [{Benny, 28}, {Cindy, 22}, {Cory, 27}, {Danna, 20}, {Doretha, 32}, {Dwight, 19}, {Hal, 20}, {Juan, 33}, {Kassandra, 21}, {Lawrence, 25}, {Mac, 19}, {Natalie, 25}, {Risa, 24}, {Romana, 27}, {Rosalyn, 26}, {Susann, 31}, {Zara, 23}]
+
+people by descending age = [{Juan, 33}, {Doretha, 32}, {Susann, 31}, {Benny, 28}, {Cory, 27}, {Romana, 27}, {Rosalyn, 26}, {Lawrence, 25}, {Natalie, 25}, {Risa, 24}, {Zara, 23}, {Cindy, 22}, {Kassandra, 21}, {Danna, 20}, {Hal, 20}, {Dwight, 19}, {Mac, 19}]
